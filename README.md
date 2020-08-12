@@ -35,14 +35,12 @@ Ne pas se concentrer sur le style des pages. Uniquement sur la logique.
 
 7. Ajouter au moins une dizaine de contacts avec des intérêts différents.
 
-Faire les optionnels **dans l'ordre** :
-
 8. Maintenant, nous souhaitons visualiser un camembert de le nombre de personnes par centre d'intérêt (par exemple : 10 personnes intéressées par la science fiction, 5 par la comédie et 7 par le drame)
 - Pour cela, intégrer la librairie plotly.js (documentation : https://plot.ly/javascript/)
 - Ajouter une nouvelle vue dans lequel tu inséreras la visualisation du camembert.
 
-9. Optionnel 1 : Mettre en place des validations sur le modèle Contact
+9. Mettre en place des validations sur le modèle Contact
 
-10. Optionnel 2 : Mettre en place une action delete et update
+10. Mettre en place une action delete et update
 
-11. Optionnel 3 : Mettre en forme les pages
+11. Mettre en forme les pages
